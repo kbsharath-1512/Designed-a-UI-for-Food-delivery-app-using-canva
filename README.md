@@ -23,13 +23,9 @@ This project highlights **UI/UX design**, **visual prototyping**, and **creative
 ## 📂 Project Structure
 
 ├── UI-Designs/ # Exported Canva UI screens (PNG/JPG)
+
 ├── Prototype/ # Canva prototype link or PDF (optional)
 
-
----
-
-## 📸 Screenshots
-*(Add your exported Canva screens here in the repo)*
 
 ---
 
